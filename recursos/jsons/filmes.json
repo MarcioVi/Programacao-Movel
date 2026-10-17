@@ -1,0 +1,92 @@
+{
+    "filmes": [
+        {
+            "_id": 1,
+            "titulo": "Um Sonho de Liberdade",
+            "ano": 1994,
+            "sinopse": "Condenado injustamente pelo assassinato da esposa, o banqueiro Andy Dufresne é enviado à penitenciária de Shawshank, onde cria uma amizade improvável com o detento Red e mantém viva a esperança ao longo de décadas.",
+            "diretores": ["Frank Darabont"],
+            "atores": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+            "notaImdb": 9.3,
+            "capa": "filme1_capa.jpg",
+            "cenas": ["filme1_cena1.jpg", "filme1_cena2.jpg", "filme1_cena3.jpg"]
+        },
+        {
+            "_id": 2,
+            "titulo": "O Poderoso Chefão",
+            "ano": 1972,
+            "sinopse": "O patriarca de uma poderosa família da máfia de Nova York transfere o controle de seu império para o filho mais novo, Michael, que relutantemente se vê envolvido nos negócios da família.",
+            "diretores": ["Francis Ford Coppola"],
+            "atores": ["Marlon Brando", "Al Pacino", "James Caan"],
+            "notaImdb": 9.2,
+            "capa": "filme2_capa.jpg",
+            "cenas": ["filme2_cena1.jpg", "filme2_cena2.jpg", "filme2_cena3.jpg"]
+        },
+        {
+            "_id": 3,
+            "titulo": "Batman: O Cavaleiro das Trevas",
+            "ano": 2008,
+            "sinopse": "Com a ajuda do tenente Jim Gordon e do promotor Harvey Dent, Batman enfrenta o Coringa, um criminoso anárquico que mergulha Gotham City no caos.",
+            "diretores": ["Christopher Nolan"],
+            "atores": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+            "notaImdb": 9.0,
+            "capa": "filme3_capa.jpg",
+            "cenas": ["filme3_cena1.jpg", "filme3_cena2.jpg", "filme3_cena3.jpg"]
+        },
+        {
+            "_id": 4,
+            "titulo": "Pulp Fiction: Tempo de Violência",
+            "ano": 1994,
+            "sinopse": "As histórias de dois assassinos de aluguel, um boxeador, um gângster e sua esposa se entrelaçam em uma série de episódios de violência e redenção em Los Angeles.",
+            "diretores": ["Quentin Tarantino"],
+            "atores": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+            "notaImdb": 8.9,
+            "capa": "filme4_capa.jpg",
+            "cenas": ["filme4_cena1.jpg", "filme4_cena2.jpg", "filme4_cena3.jpg"]
+        },
+        {
+            "_id": 5,
+            "titulo": "A Origem",
+            "ano": 2010,
+            "sinopse": "Dom Cobb é um ladrão especializado em roubar segredos do subconsciente durante o sono. Ele recebe a chance de recuperar sua antiga vida se conseguir fazer o inverso: implantar uma ideia na mente de alguém.",
+            "diretores": ["Christopher Nolan"],
+            "atores": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+            "notaImdb": 8.8,
+            "capa": "filme5_capa.jpg",
+            "cenas": ["filme5_cena1.jpg", "filme5_cena2.jpg", "filme5_cena3.jpg"]
+        },
+        {
+            "_id": 6,
+            "titulo": "Matrix",
+            "ano": 1999,
+            "sinopse": "O hacker Neo descobre que a realidade em que vive é uma simulação criada por máquinas e se junta a um grupo de rebeldes para libertar a humanidade.",
+            "diretores": ["Lana Wachowski", "Lilly Wachowski"],
+            "atores": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+            "notaImdb": 8.7,
+            "capa": "filme6_capa.jpg",
+            "cenas": ["filme6_cena1.jpg", "filme6_cena2.jpg", "filme6_cena3.jpg"]
+        },
+        {
+            "_id": 7,
+            "titulo": "Interestelar",
+            "ano": 2014,
+            "sinopse": "Com a Terra se tornando inabitável, um grupo de exploradores atravessa um buraco de minhoca em busca de um novo lar para a humanidade.",
+            "diretores": ["Christopher Nolan"],
+            "atores": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+            "notaImdb": 8.7,
+            "capa": "filme7_capa.jpg",
+            "cenas": ["filme7_cena1.jpg", "filme7_cena2.jpg", "filme7_cena3.jpg"]
+        },
+        {
+            "_id": 8,
+            "titulo": "Cidade de Deus",
+            "ano": 2002,
+            "sinopse": "Buscapé, um jovem fotógrafo, acompanha o crescimento do crime organizado na Cidade de Deus, no Rio de Janeiro, entre o fim dos anos 60 e o início dos anos 80.",
+            "diretores": ["Fernando Meirelles", "Kátia Lund"],
+            "atores": ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen"],
+            "notaImdb": 8.6,
+            "capa": "filme8_capa.jpg",
+            "cenas": ["filme8_cena1.jpg", "filme8_cena2.jpg", "filme8_cena3.jpg"]
+        }
+    ]
+}

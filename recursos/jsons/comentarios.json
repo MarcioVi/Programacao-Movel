@@ -1,0 +1,124 @@
+{
+    "comentarios": [
+        {
+            "_id": 1,
+            "filmeId": 1,
+            "user": {
+                "userId": 2,
+                "email": "carlos.lima@cineacervo.com",
+                "name": "Carlos Lima"
+            },
+            "datetime": "2026-09-12T20:15:00",
+            "nota": 5,
+            "content": "Uma história sobre esperança que emociona do começo ao fim. Morgan Freeman está impecável."
+        },
+        {
+            "_id": 2,
+            "filmeId": 1,
+            "user": {
+                "userId": 1,
+                "email": "anasouza@cineacervo.com",
+                "name": "Ana Souza"
+            },
+            "datetime": "2026-09-20T18:40:00",
+            "nota": 5,
+            "content": "Meu filme favorito. O final é perfeito!"
+        },
+        {
+            "_id": 3,
+            "filmeId": 2,
+            "user": {
+                "userId": 3,
+                "email": "julia.melo@cineacervo.com",
+                "name": "Júlia Melo"
+            },
+            "datetime": "2026-08-30T21:05:00",
+            "nota": 5,
+            "content": "Clássico absoluto. A atuação de Marlon Brando é inesquecível."
+        },
+        {
+            "_id": 4,
+            "filmeId": 2,
+            "user": {
+                "userId": 2,
+                "email": "carlos.lima@cineacervo.com",
+                "name": "Carlos Lima"
+            },
+            "datetime": "2026-09-02T14:22:00",
+            "nota": 4,
+            "content": "Longo, mas cada cena vale a pena."
+        },
+        {
+            "_id": 5,
+            "filmeId": 3,
+            "user": {
+                "userId": 4,
+                "email": "pedro.alves@cineacervo.com",
+                "name": "Pedro Alves"
+            },
+            "datetime": "2026-09-15T23:10:00",
+            "nota": 5,
+            "content": "O Coringa de Heath Ledger é o melhor vilão do cinema."
+        },
+        {
+            "_id": 6,
+            "filmeId": 4,
+            "user": {
+                "userId": 3,
+                "email": "julia.melo@cineacervo.com",
+                "name": "Júlia Melo"
+            },
+            "datetime": "2026-09-05T19:00:00",
+            "nota": 4,
+            "content": "Diálogos afiados e uma narrativa fora de ordem muito criativa."
+        },
+        {
+            "_id": 7,
+            "filmeId": 5,
+            "user": {
+                "userId": 1,
+                "email": "anasouza@cineacervo.com",
+                "name": "Ana Souza"
+            },
+            "datetime": "2026-09-22T16:45:00",
+            "nota": 4,
+            "content": "Precisei assistir duas vezes para entender tudo, mas valeu muito a pena."
+        },
+        {
+            "_id": 8,
+            "filmeId": 6,
+            "user": {
+                "userId": 4,
+                "email": "pedro.alves@cineacervo.com",
+                "name": "Pedro Alves"
+            },
+            "datetime": "2026-08-18T22:30:00",
+            "nota": 5,
+            "content": "Revolucionou os efeitos especiais. Continua atual."
+        },
+        {
+            "_id": 9,
+            "filmeId": 7,
+            "user": {
+                "userId": 2,
+                "email": "carlos.lima@cineacervo.com",
+                "name": "Carlos Lima"
+            },
+            "datetime": "2026-09-28T20:00:00",
+            "nota": 5,
+            "content": "A trilha sonora de Hans Zimmer é de arrepiar."
+        },
+        {
+            "_id": 10,
+            "filmeId": 8,
+            "user": {
+                "userId": 3,
+                "email": "julia.melo@cineacervo.com",
+                "name": "Júlia Melo"
+            },
+            "datetime": "2026-10-01T17:35:00",
+            "nota": 5,
+            "content": "O melhor filme brasileiro de todos os tempos."
+        }
+    ]
+}
